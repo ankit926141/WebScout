@@ -1,3 +1,7 @@
+# To enable automated Android APK builds on GitHub Actions:
+# After exporting to your GitHub repository, create a file at: .github/workflows/build-apk.yml
+# and paste the content below:
+
 name: Build Android APK
 
 on:
