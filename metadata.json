@@ -1,0 +1,6 @@
+{
+  "name": "WebScout Chatbot",
+  "description": "An Android-style chat application with a single web-searching chatbot that scrapes 50+ websites and parses results into concise summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

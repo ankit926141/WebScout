@@ -1,0 +1,14 @@
+{
+  "appId": "com.webscout.app",
+  "appName": "WebScout Chatbot",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
